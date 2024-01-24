@@ -88,7 +88,7 @@ account at: http://sabr.org/cmsfiles/PalmerDatabaseHistory.pdf
 
 Three people have been key contributors to the work that followed, first 
 by taking the raw data and creating a relational database, and later 
-by extending the database to make it more accesible to researchers.
+by extending the database to make it more accessible to researchers.
 
 Sean Lahman launched the Baseball Archive's website back before 
 most people had heard of the world wide web.  Frustrated by the
